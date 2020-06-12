@@ -67,3 +67,25 @@ tbody   tr:hover{
     background-color: cornflowerblue;
     color: white;
 }
+
+
+.column1{
+    width: 175px;
+    padding-left: 40px;
+}
+.column2{
+    width: 175px;
+    padding-left: 40px;
+}
+.column3{
+    width: 175px;
+    padding-left: 40px;
+}
+.column4{
+    width: 175px;
+    padding-left: 40px;
+}
+.column5{
+    width: 175px;
+    padding-left: 40px;
+}
