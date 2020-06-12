@@ -1,5 +1,5 @@
 *{
-    background-color: aqua;
+
 
     margin: 0px;
     padding: 0px;
@@ -17,4 +17,14 @@ body{
     width: 100%;
     /* เซ็ตหน้าจอ */
     min-width: 100vh;
+    background: linear-gradient(#ff9c71,#709fb0);
+    padding: 33px 33px;
+}
+table{
+    border-spacing: 1;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 20px;
+    overflow: hidden;
+    width: 100%;
 }
